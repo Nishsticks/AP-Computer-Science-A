@@ -30,12 +30,15 @@ public class Variables_SKmod
         String myname = "Nishanth Mankame" ;
         String date = "9/8/17";
         int numbervar = 101;
+        char example = 'W';
+        String character = "Take the";
         //Complete this section to output your information
-        System.out.println("//////////////////////////////////");
-        System.out.println(myname + "        "+ date);
+        System.out.println("//////////////////////////////////"); //35 backslashes
+        System.out.println("+++\t" + myname + " " + date + "\t+++");
         System.out.println("* CompSci at " + schoolName + "  *");
-        System.out.println(numbervar);
-        System.out.println("*                                *");
+        System.out.println("\t\t\t\t" + numbervar);
+        System.out.println(character + " " + example);
+
 
 
     }
