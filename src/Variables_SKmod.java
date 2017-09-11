@@ -37,7 +37,7 @@ public class Variables_SKmod
         System.out.println("+++\t" + myname + " " + date + "\t+++");
         System.out.println("* CompSci at " + schoolName + "  *");
         System.out.println("\t\t\t\t" + numbervar);
-        System.out.println(character + " " + example);
+        System.out.println("\t\t\t" + character + " " + example);
 
 
 
