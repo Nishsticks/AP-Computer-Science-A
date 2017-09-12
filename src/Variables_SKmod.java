@@ -38,6 +38,12 @@ public class Variables_SKmod
         System.out.println("* CompSci at " + schoolName + "  *");
         System.out.println("\t\t\t\t" + numbervar);
         System.out.println("\t\t\t" + character + " " + example);
+        System.out.println(5+2*4);
+        numbervar = numbervar - 102;
+        System.out.println(numbervar);
+
+
+
 
 
 
