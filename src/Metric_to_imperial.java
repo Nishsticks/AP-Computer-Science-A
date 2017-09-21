@@ -2,8 +2,9 @@
  * A simple program to convert a measurement in 
  * meters to the equivalent distance in miles, feet and inches.
  */
-import java.util.Scanner;
 
+
+import java.util.Scanner;
 
 public class Metric_to_imperial
 {
@@ -27,21 +28,19 @@ public class Metric_to_imperial
    * Conversion statements here
    * This region will contain the bulk of your program logic.
    */
-  miles = meters*0.000621371;
+      miles = meters*0.000621371;
+      feet = miles * 5280;
+      inches = feet * 12;
 
-  feet = miles * 5280;
 
-  inches = feet * 12;
-
-  System.out.println("Miles: " + miles);
-  System.out.println("New");
 	
     
 
    // Your print statement(s) should appear in this section.
-
+      System.out.println("Miles: " + miles);
+      System.out.println("Feet: " + feet);
+      System.out.println("Inches: " + inches);
     
-    
-   }
+  }
 
 }
