@@ -20,6 +20,8 @@ public class TotalValue_FL {
         int nickels;
         int pennies;
         int value;
+        int dollars;
+        int cents;
 
         System.out.println("Pennies: ");
         pennies = input.nextInt();
@@ -35,8 +37,12 @@ public class TotalValue_FL {
 
         value = (quarters*25) + (dimes*10) + (nickels*5) + pennies;
 
+        dollars = value/100;
+
+        cents = value%100;
+
         System.out.println("-------------------------");
-        System.out.println("Total Value: $" + (value*0.01));
+        System.out.println("Total Value: $" + dollars + "." + cents);
 
 
 
