@@ -1,9 +1,11 @@
-package src;
-/* NOTE: comment out the above line before compiling when running on another Computer.
-* I had to leave this line on my computer so that it would compile.
+package src
+/*
+* Nishanth Mankame
+* 9/28/17
+* Unit 0 Problem set Eggs_FL
 *
-*This program tell you the number of gross, dozen and leftover eggs when given a number of eggs
-* */
+* This program tell you the number of gross, dozen and leftover eggs when given a number of eggs
+*/
 import java.util.Scanner;
 
 public class Eggs_FL {

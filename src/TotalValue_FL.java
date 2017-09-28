@@ -1,10 +1,11 @@
-package src;
-/*NOTE: Comment the above line out before compiling on another computer. This above line was used to compile in
-InteliJ java IDE.
-
-This program takes in the number of quarters, pennies, nickels and dimes and outputs the value in dollars.
-
- */
+package src
+/*
+* Nishanth Mankame
+* 9/28/17
+* Unit 0 Problem set TotalValue_FL
+*
+* This program takes in the number of quarters, pennies, nickels and dimes and outputs the value in dollars.
+*/
 
 
 import java.util.Scanner;
@@ -15,6 +16,7 @@ public class TotalValue_FL {
 
         Scanner input = new Scanner(System.in);
 
+        //Declaring some variables
         int quarters;
         int dimes;
         int nickels;
@@ -23,6 +25,8 @@ public class TotalValue_FL {
         int dollars;
         int cents;
 
+
+        //Obtaining the number of each type of coin
         System.out.println("Pennies: ");
         pennies = input.nextInt();
 
@@ -35,6 +39,8 @@ public class TotalValue_FL {
         System.out.println("Quarters: ");
         quarters = input.nextInt();
 
+
+        //Calculating total value of coins
         value = (quarters*25) + (dimes*10) + (nickels*5) + pennies;
 
         dollars = value/100;

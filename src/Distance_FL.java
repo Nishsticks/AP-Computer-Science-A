@@ -1,10 +1,11 @@
-package src;
-/*NOTE: Comment the above line out before compiling on another computer. This above line was used to compile in
-InteliJ java IDE.
-
-This program takes in the coordinates of two points and finds the distance between them.
-
- */
+package src
+/*
+* Nishanth Mankame
+* 9/28/17
+* Unit 0 Problem set Distance_FL
+*
+* This program takes in the coordinates of two points and finds the distance between them.
+*/
 import java.util.Scanner;
 
 public class Distance_FL {
@@ -19,7 +20,7 @@ public class Distance_FL {
 
         double dist;
 
-
+        //Obtaining coordinates of points
         System.out.println("Enter x1: ");
         x1 = input.nextInt();
 
@@ -32,16 +33,11 @@ public class Distance_FL {
         System.out.println("Enter y2");
         y2 = input.nextInt();
 
-
+        //Calculating distance between points
         dist = Math.sqrt(Math.pow(2, (x2 - x1)) + Math.pow(2, (y2 - y1)));
 
+        //Displaying points
         System.out.println("Distance: " + dist);
-
-
-
-
-
-
 
 
 
