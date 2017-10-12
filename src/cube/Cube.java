@@ -4,7 +4,8 @@ package src.cube;//(c) A+ Computer Science
 //Name -
 //Date -
 //Class -
-//Lab  - 
+//Lab  -
+//Change
 
 public class Cube
 {
