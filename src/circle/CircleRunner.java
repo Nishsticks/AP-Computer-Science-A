@@ -18,6 +18,8 @@ public class CircleRunner
        test.setRadius(5);
        test.calculateArea();
        test.print();
+       System.out.println(test.getRadius());
+       System.out.println("Area via getArea method: " + test.getArea());
 
 
 
