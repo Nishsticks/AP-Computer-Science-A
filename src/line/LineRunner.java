@@ -4,7 +4,7 @@ package src.line;//(c) A+ Computer Science
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  -edit
 
 public class LineRunner
 {
