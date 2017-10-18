@@ -31,7 +31,9 @@ public class Line
 
 	public void calculateSlope( )
 	{
-		slope = (xTwo - xOne)/(yTwo-yOne);
+
+
+		slope = ( (double) (xTwo - xOne))/( (double) (yTwo -  yOne));
 
 
 
