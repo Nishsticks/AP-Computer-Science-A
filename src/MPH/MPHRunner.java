@@ -4,7 +4,7 @@ package src.MPH;//(c) A+ Computer Science
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  -/
 
 import java.util.Scanner;
 //import static java.lang.System.*;
