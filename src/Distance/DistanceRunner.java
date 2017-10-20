@@ -15,7 +15,7 @@ public class DistanceRunner
 	public static void main( String[] args )
 	{
 		//add test cases
-		Distance myDistance = new Distance(5, 4, 3, 2);
+		Distance myDistance = new Distance(0, 0, 3, 4);
 		
 		myDistance.calcDistance();
 		myDistance.print();
