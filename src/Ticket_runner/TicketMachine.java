@@ -1,3 +1,5 @@
+package src.Ticket_runner;
+
 /**
  * TicketMachine models a naive ticket machine that issues
  * flat-fare tickets.
@@ -9,7 +11,7 @@
  * @author David J. Barnes and Michael Kolling
  * @version 2008.03.30
  */
-public class TicketMachine
+ public class TicketMachine
 {
     // The price of a ticket from this machine.
     private int price;
