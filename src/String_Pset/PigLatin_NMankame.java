@@ -21,7 +21,7 @@ public class PigLatin_NMankame {
         String myWord = input.next();
 
 
-        String lastTwo = myWord.substring((myWord.length() - 2), myWord.length());
+        String lastTwo = myWord.substring(myWord.length() - 2);
 
         String remaining = myWord.substring(0, (myWord.length() - 2));
 

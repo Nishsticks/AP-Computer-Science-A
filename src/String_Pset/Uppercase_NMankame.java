@@ -24,7 +24,7 @@ public class Uppercase_NMankame {
         String myString = input.next();
 
         String firstLetter = myString.substring(0,1);
-        String lastLetter = myString.substring((myString.length() - 1 ), myString.length());
+        String lastLetter = myString.substring(myString.length() - 1 );
 
         System.out.println("First letter: " + firstLetter.toUpperCase());
 
