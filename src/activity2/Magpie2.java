@@ -79,7 +79,7 @@ public class Magpie2
 		else if (whichResponse == 1)
 		{
 			response = "Hmmm.";
-		}
+		}//
 		else if (whichResponse == 2)
 		{
 			response = "Do you really think so?";
