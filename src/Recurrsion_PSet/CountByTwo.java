@@ -6,6 +6,7 @@ public class CountByTwo {
 static int start;
 
     public static void main(String[] args){
+
         Scanner input = new Scanner(System.in);
         System.out.println("What do you want to count to: ");
         countUp(input.nextInt());

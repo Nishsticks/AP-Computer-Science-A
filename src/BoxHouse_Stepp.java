@@ -3,6 +3,7 @@ public class BoxHouse_Stepp {
 		buildRoof();
 		buildBody();
 
+
 	}
 
 	public static void buildRoof()
