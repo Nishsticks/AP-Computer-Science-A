@@ -4,10 +4,7 @@ public class BottlesOfCoke {
 
     public static void main(String[] args)
     {
-
         singCoke(99);
-
-
 
     }
 
