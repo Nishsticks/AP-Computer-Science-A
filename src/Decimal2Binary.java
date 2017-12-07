@@ -2,12 +2,11 @@ package src;
 
 public class Decimal2Binary {
 
-    static String output= "";
+      static String output= "";
     public static void main(String[] args){
 
        int number =  convert(12);
 //       System.out.println(output);
-
 
     }
 
