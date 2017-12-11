@@ -13,7 +13,7 @@ public class DigitMath_SKmod_sol
         System.out.print("Enter an integer :: ");
         num = in.nextInt();
         in.nextLine();
-        System.out.println(sumDigits(12));
+        System.out.println(countDigits(501));
 
         //add test cases
 
