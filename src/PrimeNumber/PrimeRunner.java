@@ -15,7 +15,7 @@ public class PrimeRunner
 
 		test.setPrime(100);
 		System.out.println(test.isPrime());
-		//add more test cases
+		//add more test caseshaha
 		
 	}	
 }
