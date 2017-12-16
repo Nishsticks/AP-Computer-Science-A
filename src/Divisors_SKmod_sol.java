@@ -16,7 +16,7 @@ public class Divisors_SKmod_sol
 
         System.out.println(num + " has divisors: " + findDivisors(num));
     }
-
+//hahaa
     public static String findDivisors( int number )
     {
         int divisor = 1;
