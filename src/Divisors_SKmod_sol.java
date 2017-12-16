@@ -13,7 +13,7 @@ public class Divisors_SKmod_sol
         System.out.print("Enter an integer :: ");
         num = in.nextInt();
         in.nextLine();
-
+//haha
         System.out.println(num + " has divisors: " + findDivisors(num));
     }
 
