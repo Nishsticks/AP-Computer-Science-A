@@ -2,8 +2,6 @@
 //
 //YOUR Name -
 package src;
-
-
 import java.util.Scanner;
 
 public class ReverseNumberRunner
