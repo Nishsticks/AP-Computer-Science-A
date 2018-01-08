@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12cc08bc-e356-487e-996a-c9172943fd61" name="Default" comment="added few files">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="12cc08bc-e356-487e-996a-c9172943fd61" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sums_vals/RaySumLast.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sums_vals/SumLastRunner.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Java Projects/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Java Projects/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +19,7 @@
       <file leaf-file-name="Divisors_SKmod_sol.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Divisors_SKmod_sol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="285">
               <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding />
             </state>
@@ -61,18 +56,38 @@
       <file leaf-file-name="ArrayFunHouse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+            <state relative-caret-position="423">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayFunHouseRunner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RaySumLast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sums_vals/RaySumLast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumLastRunner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sums_vals/SumLastRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayFunHouseRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouseRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,9 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Triangle/TriangleRunner.java" />
-        <option value="$PROJECT_DIR$/src/line/Line.java" />
-        <option value="$PROJECT_DIR$/src/line/LineRunner.java" />
         <option value="$PROJECT_DIR$/src/Quadratic/QuadraticRunner.java" />
         <option value="$PROJECT_DIR$/src/MPH/MilesPerHour.java" />
         <option value="$PROJECT_DIR$/src/Quadratic/Quadratic.java" />
@@ -148,7 +160,10 @@
         <option value="$PROJECT_DIR$/src/BoxWord/BoxWordRunner.java" />
         <option value="$PROJECT_DIR$/src/PrimeFact_PS/PrimeFact_PS/PrimeFactRunner.java" />
         <option value="$PROJECT_DIR$/src/PrimeFact_PS/PrimeFact_PS/PrimeFact.java" />
+        <option value="$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouseRunner.java" />
         <option value="$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouse.java" />
+        <option value="$PROJECT_DIR$/src/sums_vals/SumLastRunner.java" />
+        <option value="$PROJECT_DIR$/src/sums_vals/RaySumLast.java" />
       </list>
     </option>
   </component>
@@ -173,7 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,9 +211,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayFunHouseRunner">
+  <component name="RunManager" selected="Application.SumLastRunner">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -290,14 +305,14 @@
       <module name="Java Projects" />
       <envs />
     </configuration>
-    <configuration name="TriangleOneRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SumLastRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="src.TriangleOne.*" />
+          <option name="PATTERN" value="src.sums_vals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="src.TriangleOne.TriangleOneRunner" />
+      <option name="MAIN_CLASS_NAME" value="src.sums_vals.SumLastRunner" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -403,19 +418,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TriangleOneRunner" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TriangleTwoRunner" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BoxWordRunner" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrimeFactRunner" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayFunHouseRunner" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TriangleTwoRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BoxWordRunner" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrimeFactRunner" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArrayFunHouseRunner" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumLastRunner" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayFunHouseRunner" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BoxWordRunner" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PrimeFactRunner" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TriangleTwoRunner" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TriangleOneRunner" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SumLastRunner" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ArrayFunHouseRunner" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BoxWordRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrimeFactRunner" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TriangleTwoRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513361883213</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added few files">
+      <created>1514917103729</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1514917103729</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -636,7 +658,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32596686" sideWeight="0.55810237" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.44189766" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32596686" sideWeight="0.44189766" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49609172" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -652,7 +674,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717392" sideWeight="0.44189766" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707182" sideWeight="0.44189766" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -683,20 +705,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/activity3/doc/package-tree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/activity3/doc/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/activity3/doc/index-all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -901,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Divisors_SKmod_sol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="285">
           <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding />
         </state>
@@ -947,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,18 +994,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouseRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouseRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/ArrayFunHouse/ArrayFunHouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="423">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sums_vals/RaySumLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sums_vals/SumLastRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding />
         </state>
       </provider>
