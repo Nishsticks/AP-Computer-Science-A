@@ -25,21 +25,27 @@ public class SelectionSort
         int minIndex = 0;
         for(int c = 0; c<numArray.length; c++)
         {
-
-
-            for (int i = c; i < numArray.length; i++)
+            for (int a = c+1; a<numArray.length; a++)
             {
+                if (numArray[a] < numArray[c]){}
 
-                for (int a = i+1; a < numArray.length; a++)
-                {
-                    if (numArray[i] < numArray[a])
-                    {
-                        minIndex = i;
-
-                    }
-                }
             }
-            swap(numArray, c, minIndex);
+
+
+
+//            for (int i = c; i < numArray.length; i++)
+//            {
+//
+//                for (int a = i+1; a < numArray.length; a++)
+//                {
+//                    if (numArray[i] < numArray[a])
+//                    {
+//                        minIndex = i;
+//
+//                    }
+//                }
+//            }
+//            swap(numArray, c, minIndex);
 
         }
         return numArray;
