@@ -26,14 +26,14 @@ public class MatrixSetTwo
        */
 
 
-		for(int r=0; r<mat.length; r++)
-		{
-			System.out.print("row "+ r + " ");
-			for(int c=0; c<mat[0].length; c++)
-			{
-				System.out.printf("%3d",mat[r][c]);
-			}
-			System.out.println();
-		}
+//		for(int r=0; r<mat.length; r++)
+//		{
+//			System.out.print("row "+ r + " ");
+//			for(int c=0; c<mat[0].length; c++)
+//			{
+//				System.out.printf("%3d",mat[r][c]);
+//			}
+//			System.out.println();
+//		}
 	}
 }
