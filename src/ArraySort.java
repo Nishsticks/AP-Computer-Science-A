@@ -24,7 +24,6 @@ public class ArraySort {
     public static int[] smallToBig(int[] arr)
     {
         int minVal = 0;
-
         for (int i = 0; i<arr.length; i++)
         {
             for (int a = i+1; a<arr.length; a++)
