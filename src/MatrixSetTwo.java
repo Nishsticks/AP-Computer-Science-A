@@ -31,7 +31,7 @@ public class MatrixSetTwo
 			System.out.print("row "+ r + " ");
 			for(int c=0; c<mat[0].length; c++)
 			{
-				System.out.printf("%3d",mat[r][c]);
+				//System.out.printf("%3d",mat[r][c]);
 			}
 			System.out.println();
 		}
