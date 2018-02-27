@@ -1,7 +1,7 @@
 /*
  * ArrayList stub
  */
-
+package src;
 import java.util.ArrayList;
 
 public class ArrayListStub	  
@@ -11,7 +11,7 @@ public class ArrayListStub
 		ArrayList myArray = new ArrayList();
 		for (int i = 0; i<10; i++)
 		{
-			myArray.add((int)(10* Math.random()));
+			myArray.add(new Integer((int)(10* Math.random())));
 		}
 		System.out.println(myArray);
 		System.out.println(reverse(myArray));
@@ -21,13 +21,14 @@ public class ArrayListStub
 	{
 		for (int i = 0; i < arr.size(); i++)
 		{
-			arr.add(i, arr.get(arr.size()-i));
-			arr.set(arr.size(), arr.get(i+1));
-			arr.remove(i+1);
+			Integer myInt = arr.get(arr.size()-1-i);
+			myInt.;
+			arr.set(arr.size()-i-1, arr.get(i));
+			arr.set(i, myInt);
 		}
 		return arr;
 	}
-	public static ArrayList<Integer> append(ArrayList<Integer> arr1, ArrayList<Integer> arr2)
+	public static ArrayList append(ArrayList arr1, ArrayList arr2)
 	{
 		for (int i = 0; i < arr2.size(); i++)
 		{
@@ -35,7 +36,7 @@ public class ArrayListStub
 		}
 		return arr1;
 	}
-	public static ArrayList<Integer> merge(ArrayList<Integer> arr1, ArrayList<Integer> arr2)
+	public static ArrayList merge(ArrayList arr1, ArrayList arr2)
 	{
 		ArrayList output = new ArrayList();
 		boolean shortest;

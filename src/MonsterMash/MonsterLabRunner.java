@@ -4,16 +4,16 @@ package src.MonsterMash;//(c) A+ Computer Science
 
 import java.util.Arrays;
 import java.util.Scanner;
-import static java.lang.System.*;
-import static java.util.Arrays.*; 
+
+//import static java.util.Arrays.*;
 
 public class MonsterLabRunner
 {
    public static void main( String args[] )
    {
-		Scanner keyboard = new Scanner(in);
+		Scanner keyboard = new Scanner(System.in);
 		
-		out.print("How many monsters are in the herd? :: ");
+		System.out.print("How many monsters are in the herd? :: ");
 		int size = keyboard.nextInt();
 		Monsters herd = new Monsters(size);
 
