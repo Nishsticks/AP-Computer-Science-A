@@ -19,10 +19,10 @@ public class ArrayListStub
 
 	public static ArrayList<Integer> reverse(ArrayList<Integer> arr)
 	{
-		for (int i = 0; i < arr.size(); i++)
+		for (int i = 0; i < arr.size()/2; i++)
 		{
 			Integer myInt = arr.get(arr.size()-1-i);
-			myInt.;
+			myInt.byteValue();
 			arr.set(arr.size()-i-1, arr.get(i));
 			arr.set(i, myInt);
 		}

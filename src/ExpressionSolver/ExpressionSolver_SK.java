@@ -36,9 +36,76 @@ public class ExpressionSolver_SK
 	{
 		//Use the Java API to decode this statement
 		ArrayList<String>list = new ArrayList<String>(Arrays.asList(expression.split(" ")));
-		
-		
-		
+		int int1;
+		int int2;
+		int result;
+		for (int i = 0; i< list.size(); i++)
+		{
+			if (list.get(i).equals("*"))
+			{
+				Scanner convert1 = new Scanner(list.get(i -1));
+				int1 = convert1.nextInt();
+				Scanner convert2 = new Scanner(list.get(i+1));
+				int2 = convert2.nextInt();
+
+				result = int1 * int2;
+
+				list.set(i, "" + result);
+				list.remove(i-1);
+				list.remove(i+1);
+			}
+		}
+		for (int i = 0; i< list.size(); i++)
+		{
+			if (list.get(i).equals("/"))
+			{
+				Scanner convert1 = new Scanner(list.get(i -1));
+				int1 = convert1.nextInt();
+				Scanner convert2 = new Scanner(list.get(i+1));
+				int2 = convert2.nextInt();
+
+				result = int1 / int2;
+
+				list.set(i, "" + result);
+				list.remove(i-1);
+				list.remove(i+1);
+			}
+		}
+		for (int i = 0; i< list.size(); i++)
+		{
+			if (list.get(i).equals("+"))
+			{
+				Scanner convert1 = new Scanner(list.get(i -1));
+				int1 = convert1.nextInt();
+				Scanner convert2 = new Scanner(list.get(i+1));
+				int2 = convert2.nextInt();
+
+				result = int1 + int2;
+
+				list.set(i, "" + result);
+				list.remove(i-1);
+				list.remove(i+1);
+			}
+		}
+		for (int i = 0; i< list.size(); i++)
+		{
+			if (list.get(i).equals("-"))
+			{
+				Scanner convert1 = new Scanner(list.get(i -1));
+				int1 = convert1.nextInt();
+				Scanner convert2 = new Scanner(list.get(i+1));
+				int2 = convert2.nextInt();
+
+				result = int1 - int2;
+
+				list.set(i, "" + result);
+				list.remove(i-1);
+				list.remove(i+1);
+			}
+		}
+
+
+
 	}
 
 	public String toString( )
