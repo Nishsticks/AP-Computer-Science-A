@@ -3,6 +3,7 @@
  *
  * <code>Card</code> represents a playing card.
  */
+package src.Activity1_Starter_Code;
 public class Card {
 
 	/**

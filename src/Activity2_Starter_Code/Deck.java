@@ -1,3 +1,5 @@
+import src.Activity2_Starter_Code.Card;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -29,10 +31,20 @@ public class Deck {
 	 * @param suits is an array containing all of the card suits.
 	 * @param values is an array containing all of the card point values.
 	 */
-	public Deck(String[] ranks, String[] suits, int[] values) {
+	public Deck(String[] ranks, String[] suits, int[] values)
+	{
+
 			/* *** TO BE IMPLEMENTED IN ACTIVITY 2 *** */
+		for (int i = 0; i <suits.length; i++)
+		{
+			for (int a = 0; a <values.length; a++)
+			{
+				cards.add(new Card(ranks[i], suits[i], values[a]));
+
+			}
 
 
+		}
 	}
 
 

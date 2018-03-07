@@ -75,6 +75,7 @@ public class ArrayListStub
 			for (int i = arr1.size() - arr2.size() -1; i <arr1.size(); i++)
 			{
 				output.add(arr1.get(i));
+
 			}
 			return output;
 		}
